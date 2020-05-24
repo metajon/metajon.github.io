@@ -6,4 +6,4 @@ layout: default
 
 About.
 
-[back](./)
+[back](../)
