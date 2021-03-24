@@ -1,3 +1,4 @@
+{% include mathjax.html %}
 ---
 layout: post
 usemathjax: true
