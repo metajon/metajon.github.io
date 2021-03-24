@@ -8,6 +8,6 @@ author: "metajon"
 {% include mathjax.html %}
 I'm testing out Mathjax support for a future project.
 
-$T_1 + U_{1\rightarrow 2) = T_2$
+$T_1 + U_{1\rightarrow 2} = T_2$
 
 How's that.
