@@ -1,4 +1,6 @@
 name: metajon
 markdown: kramdown
+highlighter: rouge
+    input: GFM
 theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
