@@ -8,7 +8,7 @@ author: "metajon"
 {% include mathjax.html %}
 Here's an quick example for using the symbolic math package in MATLAB for doing quick calculations where you may not have values assigned.
 
-In the below example, I am showing how $r\hat{i} r\hat{j}$ relates to $\omega\hat{k}$ in general plane motion.
+In the below example, I am showing how $r = <a\hat{i} + b\hat{j}>$ relates to $\omega\hat{k}$ in general plane motion.
 
 ~~~ matlab
 syms w a b
