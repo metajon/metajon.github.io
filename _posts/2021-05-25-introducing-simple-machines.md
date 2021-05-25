@@ -5,7 +5,7 @@ date: 2021-05-25
 author: "metajon"
 ---
 
-Now that it's summer, lets analyze and describe simple "machines."
+Now that it's Summer, lets analyze and describe simple "machines."
 
 In this project series I will work through several toy problems in which I characterize machine primitives and think through various ways to describe or simulate them.  
 
